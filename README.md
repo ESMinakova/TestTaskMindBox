@@ -6,7 +6,7 @@ Library Class for calculating shape's area
 - ООП
 - NUnit
 
-p.s. ответ на тестовое из вопроса №3
+P.S. Ответ на тестовое из вопроса №3
 <br /> SELECT Products.Product_Name, Categories.Category_Name
 <br /> FROM Products
 <br /> LEFT JOIN Categories 
